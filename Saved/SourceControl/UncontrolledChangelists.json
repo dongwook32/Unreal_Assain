@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CDW/BP_Project/AssassinationGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/CDW/BP_Project/AssassinationGame/Content/FirstPerson/Blueprints/BP_TargetCharacter.uasset",
+				"C:/Users/CDW/BP_Project/AssassinationGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WK/MDAYVWA8JRT8GTJ7UZ2JWZ.uasset"
+			]
+		}
+	]
+}
